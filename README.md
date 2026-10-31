@@ -73,7 +73,7 @@ Goal: Building scalable technology solutions
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=crunchypeanutbutterE&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E6EDF3&dates=8B949E" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=notyouruniverseE&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E6EDF3&dates=8B949E" />
 </p>
 
 ---
