@@ -22,6 +22,8 @@ Education: Btech in Computer Science & Engineering - AI & Data Science
 
 ```yaml
 Name: Darshan S
+Institution: Dayananda Sagar University
+Location: Bengaluru, India
 Role: University Student
 Interests:
   - Data Engineering
