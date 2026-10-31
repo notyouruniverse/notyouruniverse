@@ -1,6 +1,6 @@
 # Greetings, I'm Darshan 👋🤝
 ### Engineering ideas into practical solutions.
-Education: Btech in Computer Science & Engineering - AI & Data Science
+Education: Computer Science & Engineering - AI & Data Science
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&width=500&lines=Data+Science+Student;Aspiring+Data+Engineer;Building+%7C+Learning+%7C+Exploring" />
