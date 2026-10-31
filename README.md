@@ -50,7 +50,7 @@ Goal: Building scalable technology solutions
 **EXPLORING NEXT**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,numpy,pandas,shell,kafka,pytorch,azure" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,numpy,pandas,bash,kafka,pytorch,azure&perline=5" />
 </p>
 
 ---
