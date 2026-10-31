@@ -1,4 +1,4 @@
-# DARSHAN
+# Greetings, I'm DARSHAN 👋🤝
 ### Engineering ideas into practical solutions.
 Education: Btech in Computer Science & Engineering - AI & Data Science
 
