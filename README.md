@@ -69,11 +69,11 @@ Goal: Building scalable technology solutions
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=notyouruniverse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E6EDF3" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyouruniverseE&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyouruniverse&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=notyouruniverseE&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E6EDF3&dates=8B949E" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=notyouruniverse&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E6EDF3&dates=8B949E" />
 </p>
 
 ---
