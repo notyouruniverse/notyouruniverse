@@ -2,11 +2,17 @@
 ### Engineering ideas into practical solutions.
 Education: Btech in Computer Science & Engineering - AI & Data Science
 
-<p align="centre">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&width=500&lines=Data+Science+Student;Aspiring+Data+Engineer;Building+%7C+Learning+%7C+Exploring" />
 </p>
 
-<p align="middle">
+<p align="left">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" />
+</p>
+
+<p align="left">
   <a href="https://leetcode.com/u/crunchypeanutbutter/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
