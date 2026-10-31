@@ -2,7 +2,7 @@
 ### Engineering ideas into practical solutions.
 Education: Btech in Computer Science & Engineering - AI & Data Science
 
-<p align="middle">
+<p align="centre">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&width=500&lines=Data+Science+Student;Aspiring+Data+Engineer;Building+%7C+Learning+%7C+Exploring" />
 </p>
 
@@ -21,14 +21,14 @@ Education: Btech in Computer Science & Engineering - AI & Data Science
 ## 01 / ABOUT ME
 
 ```yaml
-name: Darshan S
-role: Computer Science Student
-interests:
+Name: Darshan S
+Role: University Student
+Interests:
   - Data Engineering
   - Software Development
   - Data Science
-currently: Learning and building projects
-goal: Building scalable technology solutions
+Currently: Learning and building projects
+Goal: Building scalable technology solutions
 ```
 
 ---
@@ -37,19 +37,19 @@ goal: Building scalable technology solutions
 
 **LANGUAGES**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 **DATABASES & TOOLS**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
 </p>
 
 **EXPLORING NEXT**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,fastapi" />
 </p>
 
