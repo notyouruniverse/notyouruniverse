@@ -28,7 +28,7 @@ Location: Bengaluru, India
 Role: University Student
 Interests:
   - Data Engineering
-  - Software Development
+  - Data Management
   - Data Science
 Currently: Learning and building projects
 Goal: Building scalable technology solutions
