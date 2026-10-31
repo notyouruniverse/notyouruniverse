@@ -1,4 +1,4 @@
-# Greetings, I'm DARSHAN 👋🤝
+# Greetings, I'm Darshan 👋🤝
 ### Engineering ideas into practical solutions.
 Education: Btech in Computer Science & Engineering - AI & Data Science
 
@@ -71,8 +71,8 @@ Goal: Building scalable technology solutions
 ## 04 / GITHUB ANALYTICS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=notyouruniverse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E6EDF3" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyouruniverse&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=notyouruniverse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=111111" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyouruniverse&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=111111" />
 </p>
 
 <p align="center">
