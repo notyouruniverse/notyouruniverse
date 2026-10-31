@@ -68,8 +68,8 @@ Goal: Building scalable technology solutions
 ## 04 / GITHUB ANALYTICS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E6EDF3" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=notyouruniverse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E6EDF3" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyouruniverseE&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3" />
 </p>
 
 <p align="center">
