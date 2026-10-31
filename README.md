@@ -12,7 +12,7 @@ Education: Btech in Computer Science & Engineering - AI & Data Science
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/u/notyouruniverse">
+  <a href="https://instagram.com/u/darshanwritescode">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -71,14 +71,11 @@ Goal: Building scalable technology solutions
 ## 04 / GITHUB ANALYTICS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=notyouruniverse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=111111" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyouruniverse&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=111111" />
+  <img
+    width="75%"
+    src="https://streak-stats.demolab.com?user=notyouruniverse&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=E6EDF3&sideLabels=E6EDF3&sideNums=E6EDF3&dates=8B949E"
+  />
 </p>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=notyouruniverse&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E6EDF3&dates=8B949E" />
-</p>
-
 ---
 
 ## 05 / FEATURED PROJECTS
